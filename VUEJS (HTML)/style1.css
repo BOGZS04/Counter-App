@@ -1,0 +1,16 @@
+h1, h2  {
+    background-color: darkblue;
+    color: white;
+    font-size: 3rem;
+    font-family: 'Times New Roman';
+    border: 10px orange solid   ;
+    
+}
+
+.Content {
+    background-color: Pink;
+    font-size: 3rem;
+    padding: 400px;
+    margin: 100px;
+}
+
